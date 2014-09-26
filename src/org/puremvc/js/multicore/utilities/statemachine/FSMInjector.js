@@ -84,9 +84,6 @@ FSMInjector.prototype.getStates = function() {
  * @param {Object} stateDef JSON Object
  * @return {State} 
  */
-/**
-
- */
 FSMInjector.prototype.createState = function(stateDef) {
     // Create State object
     var name = stateDef['@name'];

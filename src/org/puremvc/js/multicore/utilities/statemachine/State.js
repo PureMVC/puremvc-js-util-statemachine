@@ -52,9 +52,6 @@ State.prototype.removeTrans = function(action) {
  * @param {string} action
  * @return State
  */
-/**
- * 
- */
 State.prototype.getTarget = function(action) {
     return this.transitions[action] ? this.transitions[action] : null;
 }

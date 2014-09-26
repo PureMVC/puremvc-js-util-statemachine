@@ -124,7 +124,6 @@ StateMachine.prototype.transitionTo = function(nextState, data) {
  * @method listNotificationInterests
  * @return {Array} Array of Notifications
  */
-
 StateMachine.prototype.listNotificationInterests = function() {
     return [
         StateMachine.ACTION,

@@ -7,7 +7,7 @@ Unit Tests are included in this repository.
 * [Overview Presentation](http://puremvc.tv/#P002)
 
 ## Demos
-* [Demo: Lockable Door](https://github.com/sshams/puremvc-js-demo-lockabledoor/wiki)
+* [Demo: Lockable Door](https://github.com/sshams/puremvc-js-demo-lockabledoor/)
 
 ## Status
 Production - [Version 1.0](https://github.com/sshams/puremvc-js-util-statemachine/blob/master/VERSION)

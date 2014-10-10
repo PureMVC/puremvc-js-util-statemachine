@@ -1,13 +1,13 @@
-## [PureMVC](http://puremvc.github.com/) JavaScript State Machine Utility
+## [PureMVC](http://puremvc.github.com/) [JavaScript](https://github.com/PureMVC/puremvc-js-multicore-framework/wiki) State Machine Utility
 PureMVC is a lightweight framework for creating applications based upon the classic [Model-View-Controller](http://en.wikipedia.org/wiki/Model-view-controller) design meta-pattern. This is a JavaScript port of the [AS3 reference implementation of the State Machine Utility](https://github.com/PureMVC/puremvc-as3-util-statemachine/wiki).
 
 Unit Tests are included in this repository.
 
-* [Discussion](http://forums.puremvc.org/index.php?board=95.0)
+* [Discussion](http://forums.puremvc.org/index.php?topic=2110.0)
 * [Overview Presentation](http://puremvc.tv/#P003/)
 
 ## Demos
-* [Demo: Lockable Door](https://github.com/sshams/puremvc-js-demo-lockabledoor/)
+* [Demo: Lockable Door](https://github.com/PureMVC/puremvc-js-demo-lockabledoor)
 
 ## Status
 Production - [Version 1.0](https://github.com/PureMVC/puremvc-js-util-statemachine/blob/master/VERSION)

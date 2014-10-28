@@ -182,11 +182,6 @@ StateMachine.prototype.setCurrentState = function(state) {
 StateMachine.prototype.states = null;
 
 /**
- * Map of States objects by name.
- */
-StateMachine.prototype.states = {};
-
-/**
  * The initial state of the FSM.
  */
 StateMachine.prototype.initial = null;

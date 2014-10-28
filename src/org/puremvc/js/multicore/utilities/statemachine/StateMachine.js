@@ -20,6 +20,7 @@
  */
 function StateMachine() {
     puremvc.Mediator.call(this, StateMachine.NAME, null);
+    this.states = {};
 }
     
 StateMachine.prototype = new puremvc.Mediator;
@@ -178,7 +179,7 @@ StateMachine.prototype.setCurrentState = function(state) {
 /**
  * Map of States objects by name.
  */
-StateMachine.prototype.states = {};
+StateMachine.prototype.states = null;
 
 /**
  * The initial state of the FSM.
